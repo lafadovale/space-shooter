@@ -6,4 +6,4 @@ Move up = Arrow up
 Move down = Arrow down
 Fire = Space key
 
-[Click here](https://github.com/) to play.
+[Click here](https://lafadovale.github.io/space-shooter/) to play.
